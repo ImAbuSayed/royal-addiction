@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/royal-addiction/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Royal Addiction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/royal-addiction/) |
+| **Get License** | [Official Music Licensing for Royal Addiction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/royal-addiction/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਤੇਰੀਆਂ ਨਸ਼ੀਲੀਆਂ ਅੱਖਾਂ ਦਾ ਇਸ਼ਾਰਾ, make me lose control,
+> ਮੈਂ ਤੱਕਦਾ ਹਾਂ ਤੈਨੂੰ ਬਾਰ ਬਾਰ, you're stealing my soul,
+> ਕਾਲੀ ਰਾਤ ਦੇ ਹਨੇਰੇ ਵਿੱਚ ਆ ਕੇ, feel the fire inside,
+> ਮੇਰਾ ਦਿਲ ਧੜਕਦਾ ਹੈ ਤੇਰੇ ਲਈ, on this midnight ride.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
