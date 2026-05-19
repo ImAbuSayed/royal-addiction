@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/royal-addiction/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Royal Addiction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/royal-addiction/) |
+| **Get License** | [Obtain a Music License for Royal Addiction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/royal-addiction/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `939f14cb94a13247eea6a39025b143320c36bce0fe24320daf9cfa2bd5004e3f` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

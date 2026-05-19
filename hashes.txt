@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Royal Addiction
+
+This log tracks the cryptographic history and versioning for the song **Royal Addiction** (royal-addiction).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T16:02:42.680222 | `v1` | `939f14cb94a13247eea6a39025b143320c36bce0fe24320daf9cfa2bd5004e3f` | `331defb4091d078c622a949430eae7ce0ebf4368f5e3fba4ad0f1652b1cafd90` | `2026-05-19_royal-addiction-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
